@@ -32,7 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-KF&count_private=true&count_private=true&theme=radical&include_all_commits=true" alt="surya-kf" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=surya-kf&&theme=radical" alt="surya-kf" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=radical" alt="surya-kf" /></p>
