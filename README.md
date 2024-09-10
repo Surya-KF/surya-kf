@@ -30,6 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-kf&show_icons=true&locale=en&layout=compact&theme=radical" alt="surya-kf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya-KF&count_private=true&count_private=true&theme=radical&include_all_commits=true" alt="surya-kf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-kf&theme=radical&show_icons=true&locale=en" alt="surya-kf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=radical" alt="surya-kf" /></p>
+
+
