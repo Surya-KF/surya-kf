@@ -37,8 +37,8 @@
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="40" height="40"/> </a> 
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="langchain" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-kf&show_icons=true&locale=en&layout=compact&theme=radical" alt="surya-kf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-kf&show_icons=true&locale=en&layout=compact&theme=merko" alt="surya-kf" /></p>
 
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-kf&theme=radical&show_icons=true&locale=en" alt="surya-kf" /></a>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-kf&theme=merko&show_icons=true&locale=en" alt="surya-kf" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=radical&cache_seconds=86400)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=merko&cache_seconds=86400)](https://git.io/streak-stats)
