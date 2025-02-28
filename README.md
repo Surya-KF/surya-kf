@@ -12,7 +12,7 @@
   <a href="https://github.com/Surya-KF"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.kaggle.com/kfsurya"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="mailto:suryakf04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://surva-kf.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://surya-kf.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
