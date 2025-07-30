@@ -1,10 +1,18 @@
-# 🌟 KF Surya
+<h1 align="center"> KF Surya</h1>
 
 <div align="center">
-  
-### Generative AI Engineer • LLM Architect • MLOps Specialist
 
-*Building the future with intelligent systems and scalable AI solutions*
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Generative+AI+Engineer;LLM+Architect;MLOps+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
+
+<br/>
+
+### *Building the future with intelligent systems and scalable AI solutions* 
+
+<!-- Animated Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kf-surya)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-KF)
@@ -17,6 +25,8 @@
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🚀 **About Me**
 
@@ -45,11 +55,16 @@ class AIEngineer:
         return ["GenAI", "Computer Vision", "Drift Detection", "Edge AI"]
 ```
 
+<br clear="both"/>
+
 ---
 
 ## ⚡ **Tech Arsenal**
 
 <div align="center">
+
+<!-- AI Brain GIF -->
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
 
 ### 🧠 **Generative AI & Language Models**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -101,6 +116,9 @@ class AIEngineer:
 
 <div align="center">
 
+<!-- Rocket GIF -->
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" height="50">
+
 | 🚀 **Project** | 🛠️ **Tech Stack** | 📝 **Description** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|
 | **🩺 Medi-Saga** | `RAPTOR` `Milvus` `Llama3` `Streamlit` | Advanced medical AI assistant with intelligent PDF Q&A capabilities | [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=streamlit&logoColor=white)](#) |
@@ -116,6 +134,9 @@ class AIEngineer:
 
 <div align="center">
 
+<!-- Trophy GIF -->
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="80" height="80">
+
 🥇 **Best Paper Award** - DRDO & KPRIET, AMSAS-2022  
 🧠 **IBM Machine Learning with Python** (Honors)  
 📊 **Coursera Data Analysis Specialization**  
@@ -128,6 +149,9 @@ class AIEngineer:
 ## 📊 **GitHub Analytics**
 
 <div align="center">
+
+<!-- Analytics GIF -->
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100" height="100">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-kf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=radical"/>
@@ -154,6 +178,9 @@ class AIEngineer:
   
 ![Snake animation](https://github.com/surya-kf/surya-kf/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Snake GIF alternative -->
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="200">
+
 </div>
 
 ---
@@ -161,6 +188,9 @@ class AIEngineer:
 ## 💭 **Random Dev Quote**
 
 <div align="center">
+
+<!-- Thinking GIF -->
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -168,12 +198,40 @@ class AIEngineer:
 
 ---
 
+## 🎮 **Fun Zone**
+
 <div align="center">
+
+<!-- Gaming GIF -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200">
+
+### When I'm not coding AI models... I'm probably debugging them! 😅
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+<!-- Handshake GIF -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50">
 
 ### ✨ *"Transforming ideas into intelligent solutions, one algorithm at a time"* ✨
 
 **Let's build the future together!** 🚀
 
+<!-- Footer Wave GIF -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Final Animated Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Star+⭐+my+repos+if+you+like+them;Happy+Coding!+💻" alt="Typing SVG" />
 
 </div>
