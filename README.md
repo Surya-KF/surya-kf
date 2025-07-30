@@ -26,7 +26,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🚀 **About Me**
 
@@ -41,18 +40,64 @@ class AIEngineer:
             "email": "suryakf04@gmail.com",
             "phone": "+91 8848617208"
         }
+        self.github = "https://github.com/Surya-KF"
+        self.portfolio = "https://surya-kf.github.io/Portfolio/"
         
     def current_focus(self):
         return [
-            "🔥 Advanced RAG Systems",
-            "🧠 LLM Fine-tuning & Quantization", 
-            "🤖 Autonomous AI Agents",
-            "📊 MLOps & Model Monitoring",
-            "🎯 Prompt Engineering"
+            "🔥 Advanced RAG Systems (LangChain, RAPTOR, Milvus)",
+            "🧠 LLM Fine-tuning, Quantization (LLaMA2/3, Phi-3, Mistral)",
+            "🤖 Autonomous AI Agents & Multimodal Interfaces",
+            "📊 MLOps: DVC, MLflow, W&B, Model Monitoring",
+            "🎯 Prompt Engineering & Evaluation"
         ]
-        
+    
+    def skills(self):
+        return {
+            "GenAI & LLMs": ["GPT-3.5", "LLaMA2", "LLaMA3", "Mistral", "Phi-3"],
+            "RAG & Embeddings": ["LangChain", "RAPTOR", "Milvus", "Faiss", "Chroma"],
+            "Machine Learning": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras"],
+            "Computer Vision": ["OpenCV", "YOLOv8", "OpenVINO"],
+            "MLOps": ["DVC", "MLflow", "W&B", "Docker", "Kubernetes"],
+            "Languages": ["Python", "JavaScript", "C", "Java"],
+            "Visualization": ["Pandas", "NumPy", "Matplotlib", "Plotly", "Seaborn"],
+            "Frameworks": ["Streamlit", "Chainlit", "Gradio", "FastAPI"]
+        }
+
+    def certifications(self):
+        return [
+            "🎓 IBM: Machine Learning with Python (Honors)",
+            "📊 Coursera: EDA, Python for Data Analysis",
+            "🛠 365 Data Science: Git & GitHub",
+            "🏆 Best Paper Award – DRDO & KPRIET, AMSAS‑2022"
+        ]
+
+    def notable_projects(self):
+        return {
+            "Medi-Saga": "PDF-based Medical RAG Chatbot using LLaMA3, RAPTOR, Milvus, Streamlit",
+            "CPU-RAG": "Quantized LLaMA2 RAG system for efficient CPU-based retrieval",
+            "AUTOMATOS": "Real-time surveillance system using YOLOv8 and alert notifications",
+            "Churn Prediction": "Scikit-learn & Streamlit app with insights and W&B logging"
+        }
+
     def interests(self):
-        return ["GenAI", "Computer Vision", "Drift Detection", "Edge AI"]
+        return [
+            "Generative AI", 
+            "Autonomous Agents", 
+            "Computer Vision", 
+            "Model Drift Detection", 
+            "Edge AI",
+            "Multimodal LLMs"
+        ]
+
+
+# Example usage
+kf_surya = AIEngineer()
+print(kf_surya.name)
+print(kf_surya.current_focus())
+print(kf_surya.skills()["GenAI & LLMs"])
+print(kf_surya.notable_projects())
+
 ```
 
 <br clear="both"/>
@@ -151,7 +196,8 @@ class AIEngineer:
 <div align="center">
 
 <!-- Analytics GIF -->
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100" height="100">
+<div align ="center">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100" height="100"> </div>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-kf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=radical"/>
