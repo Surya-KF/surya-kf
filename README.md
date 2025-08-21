@@ -212,18 +212,7 @@ print(kf_surya.notable_projects())
 
 ---
 
-## 🎨 **Contribution Snake**
 
-<div align="center">
-  
-![Snake animation](https://github.com/surya-kf/surya-kf/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Snake GIF alternative -->
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" height="200">
-
-</div>
-
----
 
 ## 💭 **Random Dev Quote**
 
