@@ -35,7 +35,7 @@ class AIEngineer:
         self.name = "KF Surya"
         self.role = "Generative AI Engineer"
         self.education = "B.Tech in AI & Data Science"
-        self.location = "Chennai, Tamil Nadu, IN"
+        self.location = "Coimbatore, Tamil Nadu, IN"
         self.contact = {
             "email": "suryakf04@gmail.com",
             "phone": "+91 8848617208"
