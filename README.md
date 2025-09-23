@@ -37,12 +37,12 @@ class AIEngineer:
         self.education = "B.Tech in AI & Data Science"
         self.location = "Coimbatore, Tamil Nadu, IN"
         self.contact = {
-            "email": "suryakf04@gmail.com",
-            "phone": "+91 8848617208"
+            "Email": "suryakf04@gmail.com",
+            "Phone": "+91 8848617208"
         }
         self.github = "https://github.com/Surya-KF"
         self.portfolio = "https://surya-kf.github.io/Portfolio/"
-        
+
     def current_focus(self):
         return [
             "🔥 Advanced RAG Systems (LangChain, RAPTOR, Milvus)",
@@ -51,7 +51,7 @@ class AIEngineer:
             "📊 MLOps: DVC, MLflow, W&B, Model Monitoring",
             "🎯 Prompt Engineering & Evaluation"
         ]
-    
+
     def skills(self):
         return {
             "GenAI & LLMs": ["GPT-3.5", "LLaMA2", "LLaMA3", "Mistral", "Phi-3"],
@@ -90,13 +90,37 @@ class AIEngineer:
             "Multimodal LLMs"
         ]
 
+    def display_profile(self):
+        print(f"\n👤 Name: {self.name}")
+        print(f"🎓 Education: {self.education}")
+        print(f"💼 Role: {self.role}")
+        print(f"📍 Location: {self.location}")
+        print("📧 Contact:")
+        for k, v in self.contact.items():
+            print(f"   {k}: {v}")
+        print(f"💻 GitHub: {self.github}")
+        print(f"🌐 Portfolio: {self.portfolio}")
+        print("\n🔹 Current Focus:")
+        for item in self.current_focus():
+            print(f"  - {item}")
+        print("\n🔹 Skills:")
+        for category, items in self.skills().items():
+            print(f"  {category}: {', '.join(items)}")
+        print("\n🔹 Certifications:")
+        for cert in self.certifications():
+            print(f"  - {cert}")
+        print("\n🔹 Notable Projects:")
+        for proj, desc in self.notable_projects().items():
+            print(f"  {proj}: {desc}")
+        print("\n🔹 Interests:")
+        print("  " + ", ".join(self.interests()))
+
 
 # Example usage
-kf_surya = AIEngineer()
-print(kf_surya.name)
-print(kf_surya.current_focus())
-print(kf_surya.skills()["GenAI & LLMs"])
-print(kf_surya.notable_projects())
+if __name__ == "__main__":
+    kf_surya = AIEngineer()
+    kf_surya.display_profile()
+
 
 ```
 
