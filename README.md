@@ -1,290 +1,450 @@
-<h1 align="center"> KF Surya</h1>
+<!-- Modern 3D Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KF%20Surya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Gen%20AI%20Developer%20|%20Healthcare%20AI%20Innovator&descSize=18&descAlignY=65" width="100%"/>
 
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Generative+AI+Engineer;LLM+Architect;MLOps+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
+### *Transforming healthcare and enterprise workflows with cutting-edge AI* ✨
 
 <br/>
 
-### *Building the future with intelligent systems and scalable AI solutions* 
+<!-- Modern 3D Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<!-- Animated Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+<br/><br/>
+
+<!-- Social Media Badges with Glow Effect -->
+<p align="center">
+  <a href="https://linkedin.com/in/kf-surya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Surya-KF">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/kfsurya">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" alt="Kaggle"/>
+  </a>
+  <a href="https://surya-kf.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+  </a>
+  <a href="mailto:suryakf04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kf-surya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-KF)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kfsurya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://surya-kf.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryakf04@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=surya-kf&color=6c5ce7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=surya-kf&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-## 🚀 **About Me**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
 
 ```python
-class AIEngineer:
+class GenAIDeveloper:
     def __init__(self):
         self.name = "KF Surya"
-        self.role = "Generative AI Engineer"
+        self.current_role = "Gen AI Developer @ Value Health Inc"
         self.education = "B.Tech in AI & Data Science"
-        self.location = "Coimbatore, Tamil Nadu, IN"
-        self.contact = {
-            "Email": "suryakf04@gmail.com",
-            "Phone": "+91 8848617208"
-        }
-        self.github = "https://github.com/Surya-KF"
-        self.portfolio = "https://surya-kf.github.io/Portfolio/"
-
-    def current_focus(self):
-        return [
-            "🔥 Advanced RAG Systems (LangChain, RAPTOR, Milvus)",
-            "🧠 LLM Fine-tuning, Quantization (LLaMA2/3, Phi-3, Mistral)",
-            "🤖 Autonomous AI Agents & Multimodal Interfaces",
-            "📊 MLOps: DVC, MLflow, W&B, Model Monitoring",
-            "🎯 Prompt Engineering & Evaluation"
-        ]
-
-    def skills(self):
+        self.location = "Coimbatore, Tamil Nadu, IN 🇮🇳"
+        self.passion = "Building AI that saves lives and transforms industries"
+        
+    def current_work(self):
         return {
-            "GenAI & LLMs": ["GPT-3.5", "LLaMA2", "LLaMA3", "Mistral", "Phi-3"],
-            "RAG & Embeddings": ["LangChain", "RAPTOR", "Milvus", "Faiss", "Chroma"],
-            "Machine Learning": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras"],
+            "🏥 Healthcare AI": "Developing production AI for medical workflows",
+            "🔧 MCP Development": "Building custom servers & tool integrations",
+            "🤖 Claude Integration": "Architecting LLM-powered intelligent agents",
+            "📊 RAG Systems": "Designing scalable retrieval architectures",
+            "⚡ Model Optimization": "Fine-tuning & quantizing for production"
+        }
+    
+    def tech_stack(self):
+        return {
+            "LLMs": ["Claude (Opus, Sonnet, Haiku)", "GPT-4", "LLaMA 2/3", "Mistral", "Phi-3"],
+            "AI Integration": ["Model Context Protocol", "LangChain", "FastAPI", "Tool Orchestration"],
+            "RAG & Vectors": ["Milvus", "Pinecone", "Faiss", "ChromaDB", "RAPTOR", "Hybrid Search"],
+            "ML/DL": ["PyTorch", "TensorFlow", "HuggingFace", "Scikit-learn"],
             "Computer Vision": ["OpenCV", "YOLOv8", "OpenVINO"],
-            "MLOps": ["DVC", "MLflow", "W&B", "Docker", "Kubernetes"],
-            "Languages": ["Python", "JavaScript", "C", "Java"],
-            "Visualization": ["Pandas", "NumPy", "Matplotlib", "Plotly", "Seaborn"],
+            "MLOps": ["Docker", "Kubernetes", "MLflow", "Weights & Biases", "DVC"],
+            "Languages": ["Python 🐍", "JavaScript", "SQL", "C"],
             "Frameworks": ["Streamlit", "Chainlit", "Gradio", "FastAPI"]
         }
-
-    def certifications(self):
+    
+    def achievements(self):
         return [
-            "🎓 IBM: Machine Learning with Python (Honors)",
-            "📊 Coursera: EDA, Python for Data Analysis",
-            "🛠 365 Data Science: Git & GitHub",
-            "🏆 Best Paper Award – DRDO & KPRIET, AMSAS‑2022"
+            "🏆 Best Paper Award - DRDO & KPRIET, AMSAS-2022",
+            "🤖 Transformer Models & BERT Certification",
+            "🎓 AI Nano Credential Program",
+            "🧠 IBM ML with Python (Honors)",
+            "🔄 MLOps Fundamentals Certified",
+            "📊 30% improvement in retrieval efficiency @ EI Systems"
         ]
+    
+    def fun_fact(self):
+        return "When I'm not training models, I'm probably debugging them! 😅"
 
-    def notable_projects(self):
-        return {
-            "Medi-Saga": "PDF-based Medical RAG Chatbot using LLaMA3, RAPTOR, Milvus, Streamlit",
-            "CPU-RAG": "Quantized LLaMA2 RAG system for efficient CPU-based retrieval",
-            "AUTOMATOS": "Real-time surveillance system using YOLOv8 and alert notifications",
-            "Churn Prediction": "Scikit-learn & Streamlit app with insights and W&B logging"
-        }
-
-    def interests(self):
-        return [
-            "Generative AI", 
-            "Autonomous Agents", 
-            "Computer Vision", 
-            "Model Drift Detection", 
-            "Edge AI",
-            "Multimodal LLMs"
-        ]
-
-    def display_profile(self):
-        print(f"\n👤 Name: {self.name}")
-        print(f"🎓 Education: {self.education}")
-        print(f"💼 Role: {self.role}")
-        print(f"📍 Location: {self.location}")
-        print("📧 Contact:")
-        for k, v in self.contact.items():
-            print(f"   {k}: {v}")
-        print(f"💻 GitHub: {self.github}")
-        print(f"🌐 Portfolio: {self.portfolio}")
-        print("\n🔹 Current Focus:")
-        for item in self.current_focus():
-            print(f"  - {item}")
-        print("\n🔹 Skills:")
-        for category, items in self.skills().items():
-            print(f"  {category}: {', '.join(items)}")
-        print("\n🔹 Certifications:")
-        for cert in self.certifications():
-            print(f"  - {cert}")
-        print("\n🔹 Notable Projects:")
-        for proj, desc in self.notable_projects().items():
-            print(f"  {proj}: {desc}")
-        print("\n🔹 Interests:")
-        print("  " + ", ".join(self.interests()))
-
-
-# Example usage
-if __name__ == "__main__":
-    kf_surya = AIEngineer()
-    kf_surya.display_profile()
-
-
+# Initialize
+me = GenAIDeveloper()
+print(f"👋 Hi! I'm {me.name}")
+print(f"💼 Currently: {me.current_role}")
+print(f"🎯 Mission: {me.passion}")
 ```
 
-<br clear="both"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<!-- ================= TECH ARSENAL ================= -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" /> **TECH ARSENAL**
 
-## ⚡ **Tech Arsenal**
-
-<div align="center">
-
-<!-- AI Brain GIF -->
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
-
-### 🧠 **Generative AI & Language Models**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Meta](https://img.shields.io/badge/LLaMA_2/3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Phi--3-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔍 **RAG & Vector Systems**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00C4CC?style=for-the-badge&logo=milvus&logoColor=white)
-![Faiss](https://img.shields.io/badge/Faiss-4285F4?style=for-the-badge&logo=facebook&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🤖 **ML/DL Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 📸 **Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Intel](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-### ⚙️ **MLOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-
-### 🎨 **Frameworks & Tools**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logo=python&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-00D4AA?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### 💻 **Programming & Data**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
----
-
-## 🎯 **Featured Projects**
-
-<div align="center">
-
-<!-- Rocket GIF -->
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50" height="50">
-
-| 🚀 **Project** | 🛠️ **Tech Stack** | 📝 **Description** | 🔗 **Links** |
-|:---:|:---:|:---:|:---:|
-| **🩺 Medi-Saga** | `RAPTOR` `Milvus` `Llama3` `Streamlit` | Advanced medical AI assistant with intelligent PDF Q&A capabilities | [![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=streamlit&logoColor=white)](#) |
-| **⚡ CPU-RAG** | `Quantized LLaMA2` `Faiss` `LangChain` | High-performance GPU-free RAG pipeline optimized for edge deployment | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#) |
-| **🛡️ AUTOMATOS** | `YOLOv8` `OpenCV` `FastAPI` | Real-time surveillance system with intelligent alert mechanisms | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=fastapi&logoColor=white)](#) |
-| **📉 Churn Predictor** | `Scikit-learn` `Streamlit` `W&B` | Comprehensive analytics platform for telecom customer retention | [![Analytics](https://img.shields.io/badge/Analytics-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)](#) |
-
-</div>
-
----
-
-## 🏆 **Achievements & Recognition**
-
-<div align="center">
-
-<!-- Trophy GIF -->
-<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="80" height="80">
-
-🥇 **Best Paper Award** - DRDO & KPRIET, AMSAS-2022  
-🧠 **IBM Machine Learning with Python** (Honors)  
-📊 **Coursera Data Analysis Specialization**  
-🛠️ **365 Data Science Git & GitHub Mastery**
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<!-- Analytics GIF -->
-<div align ="center">
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100" height="100"> </div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50"/><br/>
+      <b>LLMs & GenAI</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_3.5-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral-ai&logoColor=white" />
+    </td>
+  </tr>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-kf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=radical"/>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="50"/><br/>
+      <b>Orchestration</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge&logo=protocol&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white" />
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="50"/><br/>
+      <b>RAG Systems</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Milvus-00C4CC?style=for-the-badge&logo=milvus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAPTOR-00D9FF?style=for-the-badge&logo=eagle&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="50"/><br/>
+      <b>MLOps</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,postgres,git,github,vscode,linux" />
+</p>
+
+<!-- ============== END TECH ARSENAL ============== -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Professional Journey**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
+
+### 🏥 **Value Health Inc** | *Gen AI Developer*
+**Sep 2025 - Present** | Coimbatore, Tamil Nadu, India
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+Building next-generation AI solutions for healthcare:
+- 🔧 Architecting MCP servers for seamless AI tool integration
+- 🤖 Developing Claude API-powered intelligent healthcare agents  
+- 📊 Designing production-grade RAG systems for medical data
+- ⚡ Optimizing LLM performance for real-world deployment
+
+### 🔬 **EI Systems** | *AI Research Intern*
+**Jul 2024 - Aug 2024**
+
+- 🩺 Built **Medi-Saga**: Advanced RAG chatbot with RAPTOR architecture
+- 📈 Achieved 30% improvement in retrieval efficiency with Milvus
+- 🧠 Fine-tuned LLaMA3 for medical domain applications
+
+### 🧪 **Yaane Technologies** | *ML/DL Intern*
+**Dec 2023 - Jan 2024**
+
+- 🏥 Developed LangChain-based medical assistant (GPT-3.5 Turbo)
+- 🔍 Created checkbox detection system for Vizhi Eye Care NGO
+- 🎯 Built NLP classification for medical emergencies
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 **Medi-Saga**
+**Advanced Medical RAG Assistant**
+
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="400">
+
+**Tech:** RAPTOR • Milvus • LLaMA3 • Streamlit
+
+**Impact:**
+- ⚡ 30% retrieval improvement
+- 🔍 Multi-document reasoning
+- ⏱️ Sub-second responses
+
+</td>
+<td width="50%">
+
+### ⚡ **CPU-RAG**
+**Edge-Optimized Inference**
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+
+**Tech:** Quantized LLaMA2 • Faiss • LangChain
+
+**Impact:**
+- 💻 GPU-free inference
+- 📉 75% memory reduction
+- 🚀 Consumer hardware ready
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ **AUTOMATOS**
+**Real-time AI Surveillance**
+
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="400">
+
+**Tech:** YOLOv8 • OpenCV • FastAPI
+
+**Features:**
+- 🎥 Real-time detection
+- 📱 Instant alerts
+- 📊 Analytics dashboard
+
+</td>
+<td width="50%">
+
+### 🏥 **Medical Assistant**
+**NLP-Driven Healthcare Bot**
+
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="400">
+
+**Tech:** LangChain • GPT-3.5 • OpenAI API
+
+**Capabilities:**
+- 🩹 Condition classification
+- 🚨 Emergency detection
+- 💊 First-aid guidance
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"> **GitHub Stats**
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=radical&hide_border=true" width="70%"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-kf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-kf&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true" width="90%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-
-## 💭 **Random Dev Quote**
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **What I'm Learning**
 
 <div align="center">
 
-<!-- Thinking GIF -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 
 </div>
 
----
+<table>
+<tr>
+<td>
 
-## 🎮 **Fun Zone**
+🔧 **Advanced MCP Development**
+- Building custom servers
+- Tool orchestration patterns
+- Production deployment
+
+</td>
+<td>
+
+🤖 **Multi-Agent Systems**
+- Agent coordination
+- Claude orchestration
+- Collaborative workflows
+
+</td>
+<td>
+
+⚡ **LLM Optimization**
+- Quantization techniques
+- Model pruning
+- Distillation methods
+
+</td>
+</tr>
+<tr>
+<td>
+
+🏥 **Healthcare AI Compliance**
+- HIPAA requirements
+- Data privacy
+- Secure architectures
+
+</td>
+<td>
+
+📊 **Production MLOps**
+- Model monitoring
+- A/B testing
+- Performance optimization
+
+</td>
+<td>
+
+🧬 **Multimodal AI**
+- Vision-language models
+- Audio integration
+- Cross-modal reasoning
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30"> **Certifications & Achievements**
 
 <div align="center">
 
-<!-- Gaming GIF -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200">
-
-### When I'm not coding AI models... I'm probably debugging them! 😅
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
 
 </div>
 
----
+| 🏆 Achievement | 📅 Year | 🎓 Issuer |
+|:---|:---:|:---|
+| 🤖 **Transformer Models & BERT** | 2024 | Coursera |
+| 🎓 **AI Nano Credential Program** | 2024 | Industry Partner |
+| 🧠 **Machine Learning with Python (Honors)** | 2023 | IBM |
+| 🔄 **MLOps Fundamentals** | 2024 | MLOps Community |
+| 📊 **Data Analysis Foundations** | 2023 | Google/Coursera |
+| 🛠️ **Git & GitHub Mastery** | 2023 | 365 Data Science |
+| 🥇 **Best Paper Award** | 2022 | DRDO & KPRIET (AMSAS-2022) |
 
-## 🤝 **Let's Connect**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-
-<!-- Handshake GIF -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50">
-
-### ✨ *"Transforming ideas into intelligent solutions, one algorithm at a time"* ✨
-
-**Let's build the future together!** 🚀
-
-<!-- Footer Wave GIF -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-
-</div>
-
----
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> **Let's Connect!**
 
 <div align="center">
 
-<!-- Final Animated Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Star+⭐+my+repos+if+you+like+them;Happy+Coding!+💻" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+
+<br/>
+
+### ✨ *"Building the future of healthcare with intelligent AI systems"* ✨
+
+**Open to collaborations, consulting, and innovative AI projects!** 🚀
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**📧 Email**
+
+[suryakf04@gmail.com](mailto:suryakf04@gmail.com)
+
+</td>
+<td align="center" width="33%">
+
+**💼 LinkedIn**
+
+[linkedin.com/in/kf-surya](https://linkedin.com/in/kf-surya)
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Portfolio**
+
+[surya-kf.github.io/Portfolio](https://surya-kf.github.io/Portfolio/)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**💻 GitHub**
+
+[github.com/Surya-KF](https://github.com/Surya-KF)
+
+</td>
+<td align="center">
+
+**📊 Kaggle**
+
+[kaggle.com/kfsurya](https://www.kaggle.com/kfsurya)
+
+</td>
+<td align="center">
+
+**📱 Phone**
+
++91 8848617208
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+<br/>
+
+<!-- Final Animated Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+the+future+together!+%F0%9F%9A%80;Star+%E2%AD%90+my+repos+if+you+like+them!;Open+to+collaborations+and+opportunities!+%F0%9F%A4%9D;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
