@@ -1,14 +1,12 @@
 <!-- Modern 3D Animated Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KF%20Surya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Gen%20AI%20Developer%20|%20Healthcare%20AI%20Innovator&descSize=18&descAlignY=65" width="100%"/>
 
-### *Transforming healthcare and enterprise workflows with cutting-edge AI* ✨
-
-<br/>
+<div align="center">
+  <h2>Transforming healthcare and enterprise workflows with cutting-edge AI ✨</h2>
+</div>
 
 <!-- Modern 3D Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br/><br/>
 
 <!-- Social Media Badges with Glow Effect -->
 <p align="center">
@@ -275,10 +273,6 @@ Building next-generation AI solutions for healthcare:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-kf&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-kf&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true" width="90%"/>
 
