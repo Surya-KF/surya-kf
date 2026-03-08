@@ -1,4 +1,4 @@
-<!-- Modern 3D Animated Header with Gradient -->
+# <!-- Modern 3D Animated Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KF%20Surya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Gen%20AI%20Developer%20|%20Healthcare%20AI%20Innovator&descSize=18&descAlignY=65" width="100%"/>
 
 <div align="center">
@@ -263,17 +263,25 @@ Building next-generation AI solutions for healthcare:
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"> **GitHub Stats**
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+<!-- ✅ Stats Card — github-profile-summary-cards (reliable, separate service) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surya-kf&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surya-kf&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surya-kf&theme=tokyonight" width="32%"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-kf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-kf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surya-kf&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-kf&theme=tokyonight" width="49%"/>
 
 <br/><br/>
 
+<!-- ✅ Streak Stats — working fine -->
+
+
+<br/><br/>
+
+<!-- ✅ Contribution Graph — working fine -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-kf&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true" width="90%"/>
 
 </div>
